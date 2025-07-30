@@ -1,4 +1,4 @@
-# AddPlus Auto Claim (Self-Modify List)
+# AddPlus Auto Claim (Self-Modify List) 3000 acc ready
 
 Automatically clicks "Claim" on AddPlus Boost links and navigates through your own custom list of referral links.
 
