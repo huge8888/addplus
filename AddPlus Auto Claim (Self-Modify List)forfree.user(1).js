@@ -13,6 +13,7 @@
     // ✅ ใส่ลิงก์ทั้งหมดของคุณตรงนี้
     const urls = [
     "https://addplus.org/boost/0xostinz",
+    "https://addplus.org/boost/0xHuge",
     "https://addplus.org/boost/naitop0",
     "https://addplus.org/boost/Reborn_1998",
     "https://addplus.org/boost/PlatooSpace",
